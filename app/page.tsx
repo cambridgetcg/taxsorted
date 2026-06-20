@@ -1,66 +1,39 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>To get started, edit the page.tsx file.</h1>
+    <>
+      <section className="hero">
+        <div className="container">
+          <h1>Tax, in plain words.</h1>
           <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
+            Free, open, honest UK tax guides. Understand what you pay, why you
+            pay it, and where it goes. No account, no paywall, no jargon.
           </p>
+          <div className="hero-grid">
+            <Link href="/learn" className="hero-card" style={{ textDecoration: "none" }}>
+              <h3>Learn</h3>
+              <p>VAT, Income Tax, Corporation Tax, PAYE, CGT — explained simply.</p>
+              <span className="arrow">Read the guides →</span>
+            </Link>
+            <Link href="/transparency" className="hero-card" style={{ textDecoration: "none" }}>
+              <h3>Transparency</h3>
+              <p>See where every £1 of your tax goes. NHS, education, defense, welfare.</p>
+              <span className="arrow">See the breakdown →</span>
+            </Link>
+            <Link href="/compare" className="hero-card" style={{ textDecoration: "none" }}>
+              <h3>Compare</h3>
+              <p>Sole trader vs LTD, salary vs dividend, UK vs Ireland, sensible vs risky.</p>
+              <span className="arrow">Compare side by side →</span>
+            </Link>
+            <Link href="/tools" className="hero-card" style={{ textDecoration: "none" }}>
+              <h3>Tools</h3>
+              <p>VAT, take-home pay, and dividend calculators. Type and see.</p>
+              <span className="arrow">Use the calculators →</span>
+            </Link>
+          </div>
         </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+      </section>
+    </>
   );
 }
