@@ -1,0 +1,151 @@
+{
+  "nav": {
+    "learn": "Aprender",
+    "transparency": "Transparência",
+    "compare": "Comparar",
+    "tools": "Ferramentas",
+    "tagline": "Impostos, em palavras simples."
+  },
+  "home": {
+    "heroTitle": "Impostos, em palavras simples.",
+    "heroDesc": "Guias de impostos do Reino Unido gratuitos, abertos e honestos. Entenda o que paga, por que paga e para onde vai. Sem conta, sem barreira de pagamento, sem jargão.",
+    "languageSelector": "Escolha o seu idioma",
+    "whoAreYou": "Quem é você?",
+    "whoAreYouDesc": "Escolha a sua situação — mostraremos o que importa para si.",
+    "roleEmployees": "Trabalhador",
+    "roleEmployeesDesc": "PAYE, imposto de rendimento, NI, pensões profissionais",
+    "roleSoleTraders": "Trabalhador independente",
+    "roleSoleTradersDesc": "Autoavaliação, NI, limiar de IVA, despesas",
+    "roleDirectors": "Diretor de empresa",
+    "roleDirectorsDesc": "Salário vs dividendo, imposto sobre sociedades, CT600",
+    "roleLandlords": "Senhorio",
+    "roleLandlordsDesc": "Imposto sobre rendimentos de rendas, despesas dedutíveis, mais-valias imobiliárias",
+    "roleInvestors": "Investidor",
+    "roleInvestorsDesc": "Mais-valias, ISA, imposto sobre dividendos, BEDR",
+    "roleCharities": "Instituição de caridade",
+    "roleCharitiesDesc": "Gift Aid, isenções de IVA, benefícios fiscais",
+    "roleExpats": "Expatriado",
+    "roleExpatsDesc": "Residência, dupla tributação, rendimentos estrangeiros",
+    "roleStudents": "Estudante",
+    "roleStudentsDesc": "Imposto sobre empréstimo estudantil, trabalho a tempo parcial, bolsas",
+    "rolePensioners": "Reformado",
+    "rolePensionersDesc": "Imposto sobre pensão, abatimentos, levantamentos",
+    "cardLearn": "Aprender",
+    "cardLearnDesc": "IVA, imposto de rendimento, imposto sobre sociedades, PAYE, mais-valias — explicados de forma simples.",
+    "cardLearnArrow": "Ler os guias →",
+    "cardTransparency": "Transparência",
+    "cardTransparencyDesc": "Veja para onde vai cada £1 dos seus impostos. NHS, educação, defesa, segurança social.",
+    "cardTransparencyArrow": "Ver a repartição →",
+    "cardCompare": "Comparar",
+    "cardCompareDesc": "Independente vs LTD, salário vs dividendo, Reino Unido vs Irlanda, sensato vs arriscado.",
+    "cardCompareArrow": "Comparar lado a lado →",
+    "cardTools": "Ferramentas",
+    "cardToolsDesc": "Calculadoras de IVA, salário líquido e dividendos. Escreva e veja.",
+    "cardToolsArrow": "Usar as calculadoras →"
+  },
+  "learn": {
+    "title": "Aprender",
+    "desc": "Guias de impostos do Reino Unido em palavras simples. Cada um diz o que significa, o que deve fazer, o que pode ignorar com segurança e como otimizar. Grátis, aberto, sem conta. Se usar o TaxSorted apenas para entender os seus impostos, é uma vitória.",
+    "guides": {
+      "vat": { "tag": "Imposto indireto", "title": "IVA — Imposto sobre o Valor Acrescentado", "desc": "O que é, quando se registar, como declarar e o que pode reaver." },
+      "income-tax": { "tag": "Imposto direto", "title": "Imposto de Rendimento", "desc": "Tranches, abatimentos, como funciona o PAYE e autoavaliação explicada." },
+      "corporation-tax": { "tag": "Imposto de sociedades", "title": "Imposto sobre Sociedades", "desc": "Taxas, abatimentos, declarar o CT600 e o que pode deduzir." },
+      "paye-rti": { "tag": "Imposto do empregador", "title": "PAYE / RTI", "desc": "Obrigações do empregador, submissões FPS/EPS e prazos importantes." },
+      "capital-gains-tax": { "tag": "Imposto de capital", "title": "Imposto sobre Mais-Valias", "desc": "Abatimentos, taxas, declaração e como reduzir o que deve." }
+    },
+    "forRolesTitle": "Guias para a sua situação",
+    "forRolesDesc": "Escolha o seu papel — veja o que importa para si, em palavras simples.",
+    "forRoles": {
+      "for-employees": "Para trabalhadores",
+      "for-sole-traders": "Para independentes",
+      "for-directors": "Para diretores",
+      "for-landlords": "Para senhorios",
+      "for-investors": "Para investidores",
+      "for-charities": "Para instituições de caridade",
+      "for-expats": "Para expatriados",
+      "for-students": "Para estudantes",
+      "for-pensioners": "Para reformados"
+    }
+  },
+  "transparency": {
+    "title": "Transparência",
+    "desc": "Para onde vão os seus impostos? Por cada £1 arrecadado, eis quanto vai para o NHS, educação, defesa, segurança social e todo o resto. Fontes: HM Treasury e OBR — cada valor indica a sua fonte.",
+    "perPoundTitle": "Por cada £1 que paga em impostos…",
+    "perPoundDesc": "Baseado nas despesas totais geridas de 2023/24 de aproximadamente £1.220 mil milhões. Arredondado para o cêntimo mais próximo.",
+    "breakdownTitle": "Repartição completa (2023/24)",
+    "historyTitle": "Como a repartição mudou ao longo do tempo",
+    "historyDesc": "Categorias-chave como quota das despesas totais, de 2009/10 a 2023/24. A história: a quota da segurança social caiu ligeiramente, a saúde subiu, e \"outros\" (incluindo juros da dívida e investimento de capital) cresceu.",
+    "plainWordsTitle": "O que isto significa em palavras simples",
+    "honestPicture": "O quadro honesto",
+    "honestPictureDesc": "Por cada £1 de imposto que paga, cerca de 22p vão para segurança social e pensões, 20p para o NHS, 11p para educação, 7p pagam juros da dívida pública, 5p para defesa, e os restantes 35p cobrem transportes, polícia, apoio a empresas, subsídios ao governo local e investimento em infraestruturas.",
+    "biggestItems": "Os maiores itens",
+    "biggestItemsDesc": "Segurança social (incluindo a pensão estatal) e saúde em conjunto representam mais de 40% de todas as despesas. São também as categorias que mais crescem. A pensão estatal sozinha — paga a 12 milhões de pessoas — é o maior item individual do orçamento, cerca de £125 mil milhões.",
+    "debtInterest": "Juros da dívida",
+    "debtInterestDesc": "7p em cada £1 vai para serviço da dívida pública — pagar juros a detentores de obrigações. É dinheiro que não constrói escolas, não conserta estradas nem financia hospitais. É o custo de empréstimos passados, e sobe quando as taxas de juro sobem."
+  },
+  "compare": {
+    "title": "Comparar",
+    "desc": "Cenários fiscais lado a lado. Tabelas claras, palavras simples, compromissos honestos. Compare estruturas de negócio, jurisdições, práticas e formas de retirar dinheiro de uma empresa.",
+    "comparisons": {
+      "business-types": { "title": "Tipos de negócio: Independente vs Sociedade vs LTD vs LLP", "desc": "Implicações fiscais de cada estrutura, lado a lado. Qual paga menos, qual é mais simples, qual o protege." },
+      "jurisdictions": { "title": "Jurisdições: Reino Unido vs Irlanda", "desc": "Imposto sobre sociedades, imposto de rendimento e carga fiscal global comparados. Comece com Reino Unido + Irlanda." },
+      "practices": { "title": "Práticas: Sensato vs arriscado", "desc": "O que é otimização fiscal legal e o que cruza a linha. Compromissos honestos." },
+      "salary-vs-dividend": { "title": "Salário vs Dividendo: retirar dinheiro de uma empresa", "desc": "Como extrair lucro eficientemente — a mistura ótima de salário e dividendos." }
+    }
+  },
+  "tools": {
+    "title": "Ferramentas",
+    "desc": "Calculadoras instantâneas. Escreva um número, veja o resultado. Sem conta, sem recarregar a página, sem rastreio. Cada uma mostra os cálculos para que possa verificar.",
+    "toolsList": {
+      "vat-calculator": { "title": "Calculadora de IVA", "desc": "Insira um montante — veja líquido, IVA e bruto instantaneamente. Adicione ou remova IVA a 20%." },
+      "take-home-calculator": { "title": "Calculadora de salário líquido", "desc": "Insira o seu salário — veja o rendimento após impostos com detalhe completo: imposto de rendimento, NI, líquido." },
+      "dividend-calculator": { "title": "Calculadora de dividendos", "desc": "Insira o lucro da empresa — veja imposto sobre sociedades, imposto sobre dividendos e o que leva para casa." }
+    }
+  },
+  "calc": {
+    "amount": "Montante (£)",
+    "vatRate": "Taxa de IVA",
+    "addVat": "Adicionar IVA",
+    "removeVat": "Remover IVA",
+    "standardRate": "20% — Taxa standard",
+    "reducedRate": "5% — Taxa reduzida",
+    "zeroRate": "0% — Taxa zero",
+    "netAmount": "Montante líquido",
+    "grossAmount": "Montante bruto",
+    "addingVat": "A adicionar IVA:",
+    "removingVat": "A remover IVA:",
+    "annualGrossSalary": "Salário bruto anual (£)",
+    "grossSalary": "Salário bruto",
+    "personalAllowance": "Abatimento pessoal",
+    "incomeTax": "Imposto de rendimento",
+    "nationalInsurance": "Seguro Nacional",
+    "takeHomePay": "Salário líquido",
+    "howCalculated": "Como se calcula (2024/25):",
+    "companyProfit": "Lucro da empresa antes do salário (£)",
+    "directorSalary": "Salário do diretor (£/ano)",
+    "taxableProfit": "Lucro tributável",
+    "corporationTax": "Imposto sobre sociedades",
+    "dividendReceived": "Dividendo recebido",
+    "dividendTax": "Imposto sobre dividendos",
+    "totalTakeHome": "Líquido total",
+    "basicRate": "Taxa base",
+    "higherRate": "Taxa superior",
+    "additionalRate": "Taxa adicional",
+    "allTools": "← Todas as ferramentas",
+    "allGuides": "← Todos os guias",
+    "allComparisons": "← Todas as comparações",
+    "vatCalculatorDesc": "Insira um montante — veja líquido, IVA e bruto instantaneamente.",
+    "takeHomeDesc": "Insira o seu salário bruto anual — veja imposto de rendimento, NI e líquido.",
+    "dividendDesc": "Insira o lucro da empresa — veja imposto sobre sociedades, imposto sobre dividendos e líquido."
+  },
+  "roles": {
+    "whatMatters": "Eis o que importa para si",
+    "keyPoints": "Pontos-chave em palavras simples",
+    "relatedGuides": "Guias relacionados",
+    "yearlyChecklist": "O que precisa fazer este ano",
+    "backToLearn": "← Todos os guias"
+  },
+  "footer": {
+    "text": "TaxSorted — grátis, aberto, honesto. Construído por amor, não por extração."
+  }
+}

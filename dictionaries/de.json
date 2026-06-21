@@ -1,0 +1,151 @@
+{
+  "nav": {
+    "learn": "Lernen",
+    "transparency": "Transparenz",
+    "compare": "Vergleichen",
+    "tools": "Werkzeuge",
+    "tagline": "Steuern, in einfachen Worten."
+  },
+  "home": {
+    "heroTitle": "Steuern, in einfachen Worten.",
+    "heroDesc": "Kostenlose, offene, ehrliche britische Steuerleitfäden. Verstehen Sie, was Sie zahlen, warum Sie zahlen und wohin es geht. Kein Konto, keine Paywall, kein Fachjargon.",
+    "languageSelector": "Wählen Sie Ihre Sprache",
+    "whoAreYou": "Wer sind Sie?",
+    "whoAreYouDesc": "Wählen Sie Ihre Situation — wir zeigen Ihnen, was für Sie wichtig ist.",
+    "roleEmployees": "Arbeitnehmer",
+    "roleEmployeesDesc": "PAYE, Einkommensteuer, NI, Betriebsrenten",
+    "roleSoleTraders": "Einzelunternehmer",
+    "roleSoleTradersDesc": "Selbstveranlagung, NI, VAT-Grenze, Ausgaben",
+    "roleDirectors": "Geschäftsführer",
+    "roleDirectorsDesc": "Gehalt vs Dividende, Körperschaftsteuer, CT600",
+    "roleLandlords": "Vermieter",
+    "roleLandlordsDesc": "Mieteinkommensteuer, abzugsfähige Ausgaben, CGT auf Immobilien",
+    "roleInvestors": "Anleger",
+    "roleInvestorsDesc": "Kapitalertragsteuer, ISA, Dividendensteuer, BEDR",
+    "roleCharities": "Wohltätigkeitsorganisation",
+    "roleCharitiesDesc": "Gift Aid, VAT-Befreiungen, Steuervergünstigungen",
+    "roleExpats": "Expatriate",
+    "roleExpatsDesc": "Steuerwohnsitz, Doppelbesteuerung, ausländische Einkünfte",
+    "roleStudents": "Student",
+    "roleStudentsDesc": "Studienkreditsteuer, Teilzeitarbeit, Zuschüsse",
+    "rolePensioners": "Rentner",
+    "rolePensionersDesc": "Renteneinkommensteuer, Freibeträge, Auszahlung",
+    "cardLearn": "Lernen",
+    "cardLearnDesc": "VAT, Einkommensteuer, Körperschaftsteuer, PAYE, Kapitalertragsteuer — einfach erklärt.",
+    "cardLearnArrow": "Die Leitfäden lesen →",
+    "cardTransparency": "Transparenz",
+    "cardTransparencyDesc": "Sehen Sie, wohin jedes £1 Ihrer Steuern geht. NHS, Bildung, Verteidigung, Sozialleistungen.",
+    "cardTransparencyArrow": "Die Aufschlüsselung ansehen →",
+    "cardCompare": "Vergleichen",
+    "cardCompareDesc": "Einzelunternehmer vs LTD, Gehalt vs Dividende, UK vs Irland, vernünftig vs riskant.",
+    "cardCompareArrow": "Seite an Seite vergleichen →",
+    "cardTools": "Werkzeuge",
+    "cardToolsDesc": "VAT-, Netto-Gehalt- und Dividendenrechner. Tippen und sehen.",
+    "cardToolsArrow": "Die Rechner nutzen →"
+  },
+  "learn": {
+    "title": "Lernen",
+    "desc": "Britische Steuerleitfäden in einfachen Worten. Jeder sagt Ihnen, was es bedeutet, was Sie tun müssen, was Sie getrost überspringen können und wie Sie optimieren. Kostenlos, offen, kein Konto. Wenn Sie TaxSorted nur nutzen, um Ihre Steuern zu verstehen, ist das ein Erfolg.",
+    "guides": {
+      "vat": { "tag": "Indirekte Steuer", "title": "VAT — Mehrwertsteuer", "desc": "Was es ist, wann man sich anmeldet, wie man meldet und was man zurückfordern kann." },
+      "income-tax": { "tag": "Direkte Steuer", "title": "Einkommensteuer", "desc": "Bänder, Freibeträge, wie PAYE funktioniert und Selbstveranlagung erklärt." },
+      "corporation-tax": { "tag": "Unternehmenssteuer", "title": "Körperschaftsteuer", "desc": "Sätze, Freibeträge, CT600 einreichen und was man abziehen kann." },
+      "paye-rti": { "tag": "Arbeitgebersteuer", "title": "PAYE / RTI", "desc": "Arbeitgeberpflichten, FPS/EPS-Einreichungen und wichtige Fristen." },
+      "capital-gains-tax": { "tag": "Kapitalsteuer", "title": "Kapitalertragsteuer", "desc": "Freibeträge, Sätze, Meldung und wie man die Schuld verringert." }
+    },
+    "forRolesTitle": "Leitfäden für Ihre Situation",
+    "forRolesDesc": "Wählen Sie Ihre Rolle — sehen Sie, was für Sie wichtig ist, in einfachen Worten.",
+    "forRoles": {
+      "for-employees": "Für Arbeitnehmer",
+      "for-sole-traders": "Für Einzelunternehmer",
+      "for-directors": "Für Geschäftsführer",
+      "for-landlords": "Für Vermieter",
+      "for-investors": "Für Anleger",
+      "for-charities": "Für Wohltätigkeitsorganisationen",
+      "for-expats": "Für Expatriates",
+      "for-students": "Für Studenten",
+      "for-pensioners": "Für Rentner"
+    }
+  },
+  "transparency": {
+    "title": "Transparenz",
+    "desc": "Wohin gehen Ihre Steuern? Für jedes eingesammelte £1 sehen Sie hier, wie viel an NHS, Bildung, Verteidigung, Sozialleistungen und alles andere geht. Quellen: HM Treasury und OBR — jede Zahl trägt ihre Quelle.",
+    "perPoundTitle": "Für jedes £1, das Sie an Steuern zahlen…",
+    "perPoundDesc": "Basierend auf den Gesamtausgaben 2023/24 von rund £1.220 Milliarden. Auf den nächsten Penny gerundet.",
+    "breakdownTitle": "Volle Aufschlüsselung (2023/24)",
+    "historyTitle": "Wie sich die Verteilung im Laufe der Zeit verändert hat",
+    "historyDesc": "Schlüsselkategorien als Anteil der Gesamtausgaben von 2009/10 bis 2023/24. Die Geschichte: Der Anteil der Sozialleistungen sank leicht, Gesundheit stieg, und \"sonstige\" (einschließlich Schuldzinsen und Kapitalinvestitionen) wuchs.",
+    "plainWordsTitle": "Was das in einfachen Worten bedeutet",
+    "honestPicture": "Das ehrliche Bild",
+    "honestPictureDesc": "Für jedes £1 Steuern, das Sie zahlen, gehen rund 22p an Sozialleistungen und Renten, 20p an den NHS, 11p an Bildung, 7p zahlen Zinsen auf Staatsschulden, 5p an Verteidigung, und die restlichen 35p decken Verkehr, Polizei, Unternehmensförderung, Kommunalzuschüsse und Infrastrukturinvestitionen.",
+    "biggestItems": "Die größten Posten",
+    "biggestItemsDesc": "Sozialleistungen (inklusive Staatsrente) und Gesundheit zusammen machen über 40 % aller Ausgaben aus. Sie sind auch die am schnellsten wachsenden Kategorien. Die Staatsrente allein — an 12 Millionen Menschen gezahlt — ist der größte einzelne Posten im Budget mit rund £125 Mrd.",
+    "debtInterest": "Schuldzinsen",
+    "debtInterestDesc": "7p von jedem £1 gehen an den Schuldendienst des Staates — Zinsen an Anleiheinhaber. Das ist Geld, das keine Schulen baut, keine Straßen repariert und keine Krankenhäuser finanziert. Es ist der Preis früherer Kredite und steigt, wenn die Zinsen steigen."
+  },
+  "compare": {
+    "title": "Vergleichen",
+    "desc": "Steuer-Szenarien Seite an Seite. Klare Tabellen, einfache Worte, ehrliche Abwägungen. Vergleichen Sie Unternehmensstrukturen, Rechtsgebiete, Praktiken und Wege, Geld aus einer Gesellschaft zu entnehmen.",
+    "comparisons": {
+      "business-types": { "title": "Unternehmensformen: Einzelunternehmer vs Partnerschaft vs LTD vs LLP", "desc": "Steuerliche Auswirkungen jeder Struktur, Seite an Seite. Welche zahlt am wenigsten, welche ist am einfachsten, welche schützt Sie." },
+      "jurisdictions": { "title": "Rechtsgebiete: UK vs Irland", "desc": "Körperschaftsteuer, Einkommensteuer und Gesamtsteuerlast verglichen. Beginnen Sie mit UK + Irland." },
+      "practices": { "title": "Praktiken: Vernünftig vs riskant", "desc": "Was ist legale Steueroptimierung und was überschreitet die Grenze. Ehrliche Abwägungen." },
+      "salary-vs-dividend": { "title": "Gehalt vs Dividende: Geld aus einer Gesellschaft entnehmen", "desc": "Wie man Gewinn effizient entnimmt — die optimale Mischung aus Gehalt und Dividenden." }
+    }
+  },
+  "tools": {
+    "title": "Werkzeuge",
+    "desc": "Sofort-Rechner. Geben Sie eine Zahl ein, sehen Sie das Ergebnis. Kein Konto, kein Neuladen, kein Tracking. Jeder Rechner zeigt die Rechnung, damit Sie sie selbst nachprüfen.",
+    "toolsList": {
+      "vat-calculator": { "title": "VAT-Rechner", "desc": "Betrag eingeben — Netto, VAT und Brutto sofort sehen. VAT mit 20 % hinzufügen oder entfernen." },
+      "take-home-calculator": { "title": "Netto-Gehaltsrechner", "desc": "Gehalt eingeben — Nettoeinkommen mit voller Aufschlüsselung sehen: Einkommensteuer, NI, Netto." },
+      "dividend-calculator": { "title": "Dividendenrechner", "desc": "Unternehmensgewinn eingeben — Körperschaftsteuer, Dividendensteuer und Netto sehen." }
+    }
+  },
+  "calc": {
+    "amount": "Betrag (£)",
+    "vatRate": "VAT-Satz",
+    "addVat": "VAT hinzufügen",
+    "removeVat": "VAT entfernen",
+    "standardRate": "20% — Normalsatz",
+    "reducedRate": "5% — Ermäßigter Satz",
+    "zeroRate": "0% — Nullsatz",
+    "netAmount": "Nettobetrag",
+    "grossAmount": "Bruttobetrag",
+    "addingVat": "VAT hinzufügen:",
+    "removingVat": "VAT entfernen:",
+    "annualGrossSalary": "Bruttojahresgehalt (£)",
+    "grossSalary": "Bruttogehalt",
+    "personalAllowance": "Persönlicher Freibetrag",
+    "incomeTax": "Einkommensteuer",
+    "nationalInsurance": "Sozialversicherung (NI)",
+    "takeHomePay": "Nettogehalt",
+    "howCalculated": "Wie berechnet (2024/25):",
+    "companyProfit": "Unternehmensgewinn vor Gehalt (£)",
+    "directorSalary": "Geschäftsführergehalt (£/Jahr)",
+    "taxableProfit": "Steuerpflichtiger Gewinn",
+    "corporationTax": "Körperschaftsteuer",
+    "dividendReceived": "Erhaltene Dividende",
+    "dividendTax": "Dividendensteuer",
+    "totalTakeHome": "Gesamt-Netto",
+    "basicRate": "Grundsatz",
+    "higherRate": "Höherer Satz",
+    "additionalRate": "Zusatzsatz",
+    "allTools": "← Alle Werkzeuge",
+    "allGuides": "← Alle Leitfäden",
+    "allComparisons": "← Alle Vergleiche",
+    "vatCalculatorDesc": "Betrag eingeben — Netto, VAT und Brutto sofort sehen.",
+    "takeHomeDesc": "Bruttojahresgehalt eingeben — Einkommensteuer, NI und Netto sehen.",
+    "dividendDesc": "Unternehmensgewinn eingeben — Körperschaftsteuer, Dividendensteuer und Netto sehen."
+  },
+  "roles": {
+    "whatMatters": "Das ist, was für Sie zählt",
+    "keyPoints": "Kernpunkte in einfachen Worten",
+    "relatedGuides": "Verwandte Leitfäden",
+    "yearlyChecklist": "Was Sie dieses Jahr tun müssen",
+    "backToLearn": "← Alle Leitfäden"
+  },
+  "footer": {
+    "text": "TaxSorted — kostenlos, offen, ehrlich. Aus Liebe gebaut, nicht aus Ausbeutung."
+  }
+}

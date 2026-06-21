@@ -1,0 +1,151 @@
+{
+  "nav": {
+    "learn": "学ぶ",
+    "transparency": "透明性",
+    "compare": "比較",
+    "tools": "ツール",
+    "tagline": "税金を、わかりやすい言葉で。"
+  },
+  "home": {
+    "heroTitle": "税金を、わかりやすい言葉で。",
+    "heroDesc": "無料、オープン、正直な英国税ガイド。何を支払い、なぜ支払うのか、どこに行くのかを理解する。アカウント不要、壁なし、専門用語なし。",
+    "languageSelector": "言語を選択",
+    "whoAreYou": "あなたは誰ですか？",
+    "whoAreYouDesc": "あなたの状況を選んでください — あなたにとって重要なことをお見せします。",
+    "roleEmployees": "従業員",
+    "roleEmployeesDesc": "PAYE、所得税、国民保険、職場年金",
+    "roleSoleTraders": "個人事業主",
+    "roleSoleTradersDesc": "自己申告、国民保険、VAT閾値、経費",
+    "roleDirectors": "会社役員",
+    "roleDirectorsDesc": "給与 vs 配当、法人税、CT600",
+    "roleLandlords": "家主",
+    "roleLandlordsDesc": "賃料所得税、控除可能経費、不動産キャピタルゲイン税",
+    "roleInvestors": "投資家",
+    "roleInvestorsDesc": "キャピタルゲイン税、ISA、配当税、BEDR",
+    "roleCharities": "慈善団体",
+    "roleCharitiesDesc": "ギフトエイド、VAT免除、税制優遇",
+    "roleExpats": "在外居住者",
+    "roleExpatsDesc": "居住、二重課税、海外所得",
+    "roleStudents": "学生",
+    "roleStudentsDesc": "学生ローン税、アルバイト、助成金",
+    "rolePensioners": "年金受給者",
+    "rolePensionersDesc": "年金所得税、控除額、引き出し",
+    "cardLearn": "学ぶ",
+    "cardLearnDesc": "VAT、所得税、法人税、PAYE、キャピタルゲイン税 — シンプルに説明。",
+    "cardLearnArrow": "ガイドを読む →",
+    "cardTransparency": "透明性",
+    "cardTransparencyDesc": "あなたの税金の1ポンドがどこに行くかを見る。NHS、教育、防衛、福祉。",
+    "cardTransparencyArrow": "内訳を見る →",
+    "cardCompare": "比較",
+    "cardCompareDesc": "個人事業主 vs LTD、給与 vs 配当、英国 vs アイルランド、堅実 vs 危険。",
+    "cardCompareArrow": "並べて比較 →",
+    "cardTools": "ツール",
+    "cardToolsDesc": "VAT、手取り給与、配当計算機。入力して結果を見る。",
+    "cardToolsArrow": "計算機を使う →"
+  },
+  "learn": {
+    "title": "学ぶ",
+    "desc": "わかりやすい言葉の英国税ガイド。それぞれが何を意味するか、何をすべきか、安全に省略できること、最適化の方法を教えます。無料、オープン、アカウント不要。TaxSortedを使って税金を理解するだけでも、それは勝利です。",
+    "guides": {
+      "vat": { "tag": "間接税", "title": "VAT — 付加価値税", "desc": "何か、いつ登録するか、どう申告するか、何を取り戻せるか。" },
+      "income-tax": { "tag": "直接税", "title": "所得税", "desc": "バンド、控除額、PAYEの仕組み、自己申告の説明。" },
+      "corporation-tax": { "tag": "法人税", "title": "法人税", "desc": "税率、控除額、CT600の提出、何を控除できるか。" },
+      "paye-rti": { "tag": "雇用主税", "title": "PAYE / RTI", "desc": "雇用主の義務、FPS/EPS提出、重要な期限。" },
+      "capital-gains-tax": { "tag": "資本税", "title": "キャピタルゲイン税", "desc": "控除額、税率、申告、負担を減らす方法。" }
+    },
+    "forRolesTitle": "あなたの状況のためのガイド",
+    "forRolesDesc": "役割を選んで — わかりやすい言葉で何が重要かを見る。",
+    "forRoles": {
+      "for-employees": "従業員向け",
+      "for-sole-traders": "個人事業主向け",
+      "for-directors": "会社役員向け",
+      "for-landlords": "家主向け",
+      "for-investors": "投資家向け",
+      "for-charities": "慈善団体向け",
+      "for-expats": "在外居住者向け",
+      "for-students": "学生向け",
+      "for-pensioners": "年金受給者向け"
+    }
+  },
+  "transparency": {
+    "title": "透明性",
+    "desc": "あなたの税金はどこに行く？集められた1ポンドごとに、NHS、教育、防衛、福祉などにいくら行くかを示します。出典はHM TreasuryとOBR — 全ての数値に出典があります。",
+    "perPoundTitle": "あなたが納める税金1ポンドにつき…",
+    "perPoundDesc": "2023/24年の総管理支出約1,220億ポンドに基づく。最も近いペニーに丸め。",
+    "breakdownTitle": "完全な内訳（2023/24）",
+    "historyTitle": "配分が時間とともにどう変わったか",
+    "historyDesc": "2009/10から2023/24までの総支出に占める主要カテゴリーの割合。ストーリー：福祉の割合はわずかに低下、保健は上昇、「その他」（債務利子と資本投資を含む）は成長。",
+    "plainWordsTitle": "わかりやすい言葉でこれが何を意味するか",
+    "honestPicture": "正直な姿",
+    "honestPictureDesc": "あなたが納める税金1ポンドにつき、約22ペンスが福祉と年金に、20ペンスがNHSに、11ペンスが教育に、7ペンスが政府債務の利子に、5ペンスが防衛に行き、残り35ペンスが交通、警察、企業支援、地方自治体助成金、インフラ投資をカバーします。",
+    "biggestItems": "最大の項目",
+    "biggestItemsDesc": "福祉（国家年金を含む）と保健は合わせて全支出の40%以上を占めます。また最も急速に成長しているカテゴリーでもあります。国家年金単独で — 1200万人に支払われる — 予算の最大単一項目で、約1,250億ポンドです。",
+    "debtInterest": "債務利子",
+    "debtInterestDesc": "1ポンドにつき7ペンスが政府債務の servicing に使われる — 債権者への利子支払い。これは学校を建てず、道路を直さず、病院を資金援助しないお金です。過去の借り入れのコストであり、金利が上がると上昇します。"
+  },
+  "compare": {
+    "title": "比較",
+    "desc": "並列の税シナリオ。明確な表、わかりやすい言葉、正直なトレードオフ。事業構造、管轄区域、実践、会社からお金を出す方法を比較。",
+    "comparisons": {
+      "business-types": { "title": "事業形態：個人事業主 vs パートナーシップ vs LTD vs LLP", "desc": "各構造の税務上の影響、並列比較。どれが最も少なく払うか、最も簡単か、保護するか。" },
+      "jurisdictions": { "title": "管轄区域：英国 vs アイルランド", "desc": "法人税、所得税、総税負担を比較。英国 + アイルランドから始める。" },
+      "practices": { "title": "実践：堅実 vs 危険", "desc": "合法的な税務最適化とは何か、線を超えるとは何か。正直なトレードオフ。" },
+      "salary-vs-dividend": { "title": "給与 vs 配当：会社からお金を出す", "desc": "利益を効率的に引き出す方法 — 給与と配当の最適な組み合わせ。" }
+    }
+  },
+  "tools": {
+    "title": "ツール",
+    "desc": "即時計算機。数字を入力、結果を見る。アカウント不要、ページ再読込不要、追跡なし。それぞれが計算を表示し、自分で検証できます。",
+    "toolsList": {
+      "vat-calculator": { "title": "VAT計算機", "desc": "金額を入力 — ネット、VAT、グロスを即座に見る。20%でVATを追加または削除。" },
+      "take-home-calculator": { "title": "手取り給与計算機", "desc": "給与を入力 — 税引き後収入の完全な内訳を見る：所得税、NI、手取り。" },
+      "dividend-calculator": { "title": "配当計算機", "desc": "会社利益を入力 — 法人税、配当税、手取りを見る。" }
+    }
+  },
+  "calc": {
+    "amount": "金額（£）",
+    "vatRate": "VAT税率",
+    "addVat": "VAT追加",
+    "removeVat": "VAT削除",
+    "standardRate": "20% — 標準税率",
+    "reducedRate": "5% — 軽減税率",
+    "zeroRate": "0% — ゼロ税率",
+    "netAmount": "ネット金額",
+    "grossAmount": "グロス金額",
+    "addingVat": "VAT追加：",
+    "removingVat": "VAT削除：",
+    "annualGrossSalary": "年間総給与（£）",
+    "grossSalary": "総給与",
+    "personalAllowance": "個人控除額",
+    "incomeTax": "所得税",
+    "nationalInsurance": "国民保険",
+    "takeHomePay": "手取り給与",
+    "howCalculated": "計算方法（2024/25）：",
+    "companyProfit": "給与前の会社利益（£）",
+    "directorSalary": "役員給与（£/年）",
+    "taxableProfit": "課税利益",
+    "corporationTax": "法人税",
+    "dividendReceived": "受領配当",
+    "dividendTax": "配当税",
+    "totalTakeHome": "総手取り",
+    "basicRate": "基本税率",
+    "higherRate": "高税率",
+    "additionalRate": "追加税率",
+    "allTools": "← 全ツール",
+    "allGuides": "← 全ガイド",
+    "allComparisons": "← 全比較",
+    "vatCalculatorDesc": "金額を入力 — ネット、VAT、グロスを即座に見る。",
+    "takeHomeDesc": "年間総給与を入力 — 所得税、NI、手取りを見る。",
+    "dividendDesc": "会社利益を入力 — 法人税、配当税、手取りを見る。"
+  },
+  "roles": {
+    "whatMatters": "あなたにとって重要なこと",
+    "keyPoints": "わかりやすい言葉でのポイント",
+    "relatedGuides": "関連ガイド",
+    "yearlyChecklist": "今年やるべきこと",
+    "backToLearn": "← 全ガイド"
+  },
+  "footer": {
+    "text": "TaxSorted — 無料、オープン、正直。愛から作られた、搾取からではない。"
+  }
+}
