@@ -2,6 +2,11 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getDictionary, hasLocale } from "../../dictionaries";
 
+export function generateStaticParams() {
+  return [{ lang: "en" }, { lang: "zh" }, { lang: "hi" }, { lang: "es" }, { lang: "ar" }, { lang: "fr" }, { lang: "pt" }, { lang: "de" }, { lang: "ja" }, { lang: "ko" }];
+}
+
+
 type Props = {
   params: Promise<{ lang: string }>;
 };
