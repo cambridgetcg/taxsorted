@@ -1,0 +1,151 @@
+{
+  "nav": {
+    "learn": "学习",
+    "transparency": "透明度",
+    "compare": "比较",
+    "tools": "工具",
+    "tagline": "用通俗的话讲税收。"
+  },
+  "home": {
+    "heroTitle": "用通俗的话讲税收。",
+    "heroDesc": "免费、开放、诚实的英国税务指南。了解你交了什么税、为什么交、钱花在哪里。无需注册、无需付费、没有行话。",
+    "languageSelector": "选择你的语言",
+    "whoAreYou": "你是谁？",
+    "whoAreYouDesc": "选择你的情况——我们会告诉你什么对你最重要。",
+    "roleEmployees": "雇员",
+    "roleEmployeesDesc": "PAYE、所得税、国民保险、工作场所养老金",
+    "roleSoleTraders": "个体经营者",
+    "roleSoleTradersDesc": "自我评估、国民保险、VAT门槛、费用",
+    "roleDirectors": "公司董事",
+    "roleDirectorsDesc": "工资与股息、公司税、CT600",
+    "roleLandlords": "房东",
+    "roleLandlordsDesc": "租金收入税、可抵扣费用、房产资本利得税",
+    "roleInvestors": "投资者",
+    "roleInvestorsDesc": "资本利得税、ISA、股息税、BEDR",
+    "roleCharities": "慈善机构",
+    "roleCharitiesDesc": "捐赠抵税、VAT豁免、税收优惠",
+    "roleExpats": "海外侨民",
+    "roleExpatsDesc": "税务居民身份、双重征税、海外收入",
+    "roleStudents": "学生",
+    "roleStudentsDesc": "学生贷款税、兼职工作、补助金",
+    "rolePensioners": "退休人员",
+    "rolePensionersDesc": "养老金收入税、免税额、提取方式",
+    "cardLearn": "学习",
+    "cardLearnDesc": "VAT、所得税、公司税、PAYE、资本利得税——简单解释。",
+    "cardLearnArrow": "阅读指南 →",
+    "cardTransparency": "透明度",
+    "cardTransparencyDesc": "看看你交的每一英镑去了哪里。NHS、教育、国防、福利。",
+    "cardTransparencyArrow": "查看明细 →",
+    "cardCompare": "比较",
+    "cardCompareDesc": "个体vs有限公司、工资vs股息、英国vs爱尔兰、合理vs风险。",
+    "cardCompareArrow": "并排比较 →",
+    "cardTools": "工具",
+    "cardToolsDesc": "VAT、到手工资和股息计算器。输入数字即出结果。",
+    "cardToolsArrow": "使用计算器 →"
+  },
+  "learn": {
+    "title": "学习",
+    "desc": "通俗的英国税务指南。每个指南都告诉你它是什么、你必须做什么、可以安全跳过什么、以及如何优化。免费、开放、无需注册。如果你只用TaxSorted来理解你的税务，那就是一种成功。",
+    "guides": {
+      "vat": { "tag": "间接税", "title": "VAT——增值税", "desc": "它是什么、何时注册、如何申报、以及可以抵扣什么。" },
+      "income-tax": { "tag": "直接税", "title": "所得税", "desc": "税率段、免税额、PAYE如何运作、以及自我评估解释。" },
+      "corporation-tax": { "tag": "公司税", "title": "公司税", "desc": "税率、免税额、申报CT600、以及可以抵扣什么。" },
+      "paye-rti": { "tag": "雇主税", "title": "PAYE / RTI", "desc": "雇主义务、FPS/EPS提交、以及重要的截止日期。" },
+      "capital-gains-tax": { "tag": "资本税", "title": "资本利得税", "desc": "免税额、税率、申报、以及如何减少应缴税额。" }
+    },
+    "forRolesTitle": "适合你的指南",
+    "forRolesDesc": "选择你的角色——用通俗的话了解什么对你重要。",
+    "forRoles": {
+      "for-employees": "为雇员",
+      "for-sole-traders": "为个体经营者",
+      "for-directors": "为公司董事",
+      "for-landlords": "为房东",
+      "for-investors": "为投资者",
+      "for-charities": "为慈善机构",
+      "for-expats": "为海外侨民",
+      "for-students": "为学生",
+      "for-pensioners": "为退休人员"
+    }
+  },
+  "transparency": {
+    "title": "透明度",
+    "desc": "你的税去了哪里？每一英镑中，有多少去了NHS、教育、国防、福利等。数据来源为英国财政部和OBR——每个数字都标明来源。",
+    "perPoundTitle": "你交的每一英镑税…",
+    "perPoundDesc": "基于2023/24财年约1,220亿英镑的总支出。四舍五入到最接近的便士。",
+    "breakdownTitle": "完整明细（2023/24）",
+    "historyTitle": "支出分配如何随时间变化",
+    "historyDesc": "从2009/10到2023/24，主要类别占总支出的比例。故事是：福利占比略有下降，医疗有所上升，\"其他\"（包括债务利息和资本投资）增长了。",
+    "plainWordsTitle": "用通俗的话讲这意味着什么",
+    "honestPicture": "真实的画面",
+    "honestPictureDesc": "你交的每一英镑税中，大约22便士用于福利和养老金，20便士用于NHS，11便士用于教育，7便士支付政府债务利息，5便士用于国防，其余35便士覆盖交通、警务、企业支持、地方政府拨款和基础设施资本投资。",
+    "biggestItems": "最大的项目",
+    "biggestItemsDesc": "福利（包括国家养老金）和医疗合计占所有支出的40%以上。它们也是增长最快的类别。仅国家养老金一项——支付给1200万人——就是预算中最大的单一项目，约1250亿英镑。",
+    "debtInterest": "债务利息",
+    "debtInterestDesc": "每1英镑中有7便士用于偿还政府债务——向债券持有人支付利息。这些钱不会建学校、修路或资助医院。它是过去借款的成本，利率上升时它也会上升。"
+  },
+  "compare": {
+    "title": "比较",
+    "desc": "并排税务场景。清晰的表格、通俗的语言、诚实的权衡。比较商业结构、司法管辖区、做法和从公司取钱的方式。",
+    "comparisons": {
+      "business-types": { "title": "商业类型：个体经营 vs 合伙 vs 有限公司 vs LLP", "desc": "每种结构的税务影响，并排对比。哪种付得最少、哪种最简单、哪种保护你。" },
+      "jurisdictions": { "title": "司法管辖区：英国 vs 爱尔兰", "desc": "公司税、所得税和整体税负比较。从英国+爱尔兰开始。" },
+      "practices": { "title": "做法：合理 vs 风险", "desc": "什么是合法的税务优化，什么越界了。诚实的权衡。" },
+      "salary-vs-dividend": { "title": "工资 vs 股息：从公司取钱", "desc": "如何高效提取利润——工资和股息的最佳组合。" }
+    }
+  },
+  "tools": {
+    "title": "工具",
+    "desc": "即时计算器。输入数字，看结果。无需注册、无需刷新页面、无需追踪。每个计算器都显示计算过程，你可以自己验证。",
+    "toolsList": {
+      "vat-calculator": { "title": "VAT计算器", "desc": "输入金额——立即查看净额、VAT和总额。添加或移除20%的VAT。" },
+      "take-home-calculator": { "title": "到手工资计算器", "desc": "输入你的年薪——查看税后收入及完整明细：所得税、国民保险、到手工资。" },
+      "dividend-calculator": { "title": "股息计算器", "desc": "输入公司利润——查看公司税、股息税和到手金额。" }
+    }
+  },
+  "calc": {
+    "amount": "金额（£）",
+    "vatRate": "VAT税率",
+    "addVat": "添加VAT",
+    "removeVat": "移除VAT",
+    "standardRate": "20%——标准税率",
+    "reducedRate": "5%——减免税率",
+    "zeroRate": "0%——零税率",
+    "netAmount": "净额",
+    "grossAmount": "总额",
+    "addingVat": "添加VAT：",
+    "removingVat": "移除VAT：",
+    "annualGrossSalary": "年度税前工资（£）",
+    "grossSalary": "税前工资",
+    "personalAllowance": "个人免税额",
+    "incomeTax": "所得税",
+    "nationalInsurance": "国民保险",
+    "takeHomePay": "到手工资",
+    "howCalculated": "计算方式（2024/25）：",
+    "companyProfit": "公司税前利润（£）",
+    "directorSalary": "董事工资（£/年）",
+    "taxableProfit": "应税利润",
+    "corporationTax": "公司税",
+    "dividendReceived": "收到股息",
+    "dividendTax": "股息税",
+    "totalTakeHome": "总到手金额",
+    "basicRate": "基本税率",
+    "higherRate": "较高税率",
+    "additionalRate": "附加税率",
+    "allTools": "← 所有工具",
+    "allGuides": "← 所有指南",
+    "allComparisons": "← 所有比较",
+    "vatCalculatorDesc": "输入金额——立即查看净额、VAT和总额。",
+    "takeHomeDesc": "输入你的年度税前工资——查看所得税、国民保险和到手工资。",
+    "dividendDesc": "输入公司利润——查看公司税、股息税和到手金额。"
+  },
+  "roles": {
+    "whatMatters": "对你重要的是什么",
+    "keyPoints": "通俗的要点",
+    "relatedGuides": "相关指南",
+    "yearlyChecklist": "今年你需要做的事",
+    "backToLearn": "← 所有指南"
+  },
+  "footer": {
+    "text": "TaxSorted——免费、开放、诚实。出于热爱，而非索取。"
+  }
+}

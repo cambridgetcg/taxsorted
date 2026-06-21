@@ -1,0 +1,151 @@
+{
+  "nav": {
+    "learn": "Aprender",
+    "transparency": "Transparencia",
+    "compare": "Comparar",
+    "tools": "Herramientas",
+    "tagline": "Impuestos, en palabras simples."
+  },
+  "home": {
+    "heroTitle": "Impuestos, en palabras simples.",
+    "heroDesc": "Guías de impuestos del Reino Unido, gratuitas, abiertas y honestas. Entiende qué pagas, por qué lo pagas y a dónde va. Sin cuenta, sin muro de pago, sin jerga.",
+    "languageSelector": "Elige tu idioma",
+    "whoAreYou": "¿Quién eres?",
+    "whoAreYouDesc": "Elige tu situación — te mostraremos lo que te importa.",
+    "roleEmployees": "Empleado",
+    "roleEmployeesDesc": "PAYE, impuesto sobre la renta, NI, pensiones del trabajo",
+    "roleSoleTraders": "Autónomo",
+    "roleSoleTradersDesc": "Autodeclaración, NI, umbral de VAT, gastos",
+    "roleDirectors": "Director de empresa",
+    "roleDirectorsDesc": "Salario vs dividendo, impuesto de sociedades, CT600",
+    "roleLandlords": "Propietario",
+    "roleLandlordsDesc": "Impuesto sobre alquiler, gastos deducibles, CGT de propiedad",
+    "roleInvestors": "Inversor",
+    "roleInvestorsDesc": "CGT, ISA, impuesto de dividendos, BEDR",
+    "roleCharities": "Organización benéfica",
+    "roleCharitiesDesc": "Gift Aid, exenciones de VAT, beneficios fiscales",
+    "roleExpats": "Expatriado",
+    "roleExpatsDesc": "Residencia, doble imposición, ingresos extranjeros",
+    "roleStudents": "Estudiante",
+    "roleStudentsDesc": "Impuesto de préstamo estudiantil, trabajo a tiempo parcial, becas",
+    "rolePensioners": "Jubilado",
+    "rolePensionersDesc": "Impuesto sobre pensión, asignaciones, retiros",
+    "cardLearn": "Aprender",
+    "cardLearnDesc": "VAT, impuesto sobre la renta, impuesto de sociedades, PAYE, CGT — explicado de forma sencilla.",
+    "cardLearnArrow": "Leer las guías →",
+    "cardTransparency": "Transparencia",
+    "cardTransparencyDesc": "Ve a dónde va cada £1 de tus impuestos. NHS, educación, defensa, bienestar.",
+    "cardTransparencyArrow": "Ver el desglose →",
+    "cardCompare": "Comparar",
+    "cardCompareDesc": "Autónomo vs LTD, salario vs dividendo, Reino Unido vs Irlanda, sensato vs arriesgado.",
+    "cardCompareArrow": "Comparar lado a lado →",
+    "cardTools": "Herramientas",
+    "cardToolsDesc": "Calculadoras de VAT, salario neto y dividendos. Escribe y verás.",
+    "cardToolsArrow": "Usar las calculadoras →"
+  },
+  "learn": {
+    "title": "Aprender",
+    "desc": "Guías de impuestos del Reino Unido en palabras simples. Cada una te dice qué significa, qué debes hacer, qué puedes omitir y cómo optimizar. Gratis, abierto, sin cuenta. Si solo usas TaxSorted para entender tus impuestos, es un éxito.",
+    "guides": {
+      "vat": { "tag": "Impuesto indirecto", "title": "VAT — Impuesto sobre el valor añadido", "desc": "Qué es, cuándo registrarse, cómo declarar y qué puedes reclamar." },
+      "income-tax": { "tag": "Impuesto directo", "title": "Impuesto sobre la renta", "desc": "Tramos, asignaciones, cómo funciona PAYE y autodeclaración explicada." },
+      "corporation-tax": { "tag": "Impuesto de sociedades", "title": "Impuesto de sociedades", "desc": "Tipos, asignaciones, declaración del CT600 y qué puedes deducir." },
+      "paye-rti": { "tag": "Impuesto del empleador", "title": "PAYE / RTI", "desc": "Obligaciones del empleador, presentaciones FPS/EPS y plazos importantes." },
+      "capital-gains-tax": { "tag": "Impuesto de capital", "title": "Impuesto sobre ganancias de capital", "desc": "Asignaciones, tipos, declaración y cómo reducir lo que debes." }
+    },
+    "forRolesTitle": "Guías para tu situación",
+    "forRolesDesc": "Elige tu rol — ve lo que te importa, en palabras simples.",
+    "forRoles": {
+      "for-employees": "Para empleados",
+      "for-sole-traders": "Para autónomos",
+      "for-directors": "Para directores",
+      "for-landlords": "Para propietarios",
+      "for-investors": "Para inversores",
+      "for-charities": "Para organizaciones benéficas",
+      "for-expats": "Para expatriados",
+      "for-students": "Para estudiantes",
+      "for-pensioners": "Para jubilados"
+    }
+  },
+  "transparency": {
+    "title": "Transparencia",
+    "desc": "¿A dónde van tus impuestos? Por cada £1 recaudado, esto es lo que va al NHS, educación, defensa, bienestar y todo lo demás. Datos de HM Treasury y OBR — cada cifra lleva su fuente.",
+    "perPoundTitle": "Por cada £1 que pagas en impuestos…",
+    "perPoundDesc": "Basado en el gasto gestionado total de 2023/24 de aproximadamente £1.220 mil millones. Redondeado al penique más cercano.",
+    "breakdownTitle": "Desglose completo (2023/24)",
+    "historyTitle": "Cómo ha cambiado la distribución a lo largo del tiempo",
+    "historyDesc": "Categorías clave como proporción del gasto total, de 2009/10 a 2023/24. La historia: la proporción de bienestar ha caído ligeramente, la salud ha subido, y \"otros\" (incluyendo intereses de deuda e inversión de capital) ha crecido.",
+    "plainWordsTitle": "Qué significa esto en palabras simples",
+    "honestPicture": "La imagen honesta",
+    "honestPictureDesc": "Por cada £1 de impuestos que pagas, aproximadamente 22p va a bienestar y pensiones, 20p al NHS, 11p a educación, 7p paga intereses de la deuda del gobierno, 5p a defensa, y los 35p restantes cubren transporte, policía, apoyo empresarial, subvenciones al gobierno local e inversión en infraestructura.",
+    "biggestItems": "Los mayores elementos",
+    "biggestItemsDesc": "Bienestar (incluyendo la pensión estatal) y salud juntos representan más del 40% de todo el gasto. También son las categorías de más rápido crecimiento. La pensión estatal por sí sola — pagada a 12 millones de personas — es el mayor elemento del presupuesto, con aproximadamente £125 mil millones.",
+    "debtInterest": "Intereses de la deuda",
+    "debtInterestDesc": "7p de cada £1 va a servicio de la deuda del gobierno — pagando intereses a los tenedores de bonos. Es dinero que no construye escuelas, arregla carreteras ni financia hospitales. Es el costo de endeudamiento pasado, y sube cuando suben los tipos de interés."
+  },
+  "compare": {
+    "title": "Comparar",
+    "desc": "Escenarios fiscales lado a lado. Tablas claras, palabras simples, compensaciones honestas. Compara estructuras empresariales, jurisdicciones, prácticas y formas de sacar dinero de una empresa.",
+    "comparisons": {
+      "business-types": { "title": "Tipos de empresa: Autónomo vs Sociedad vs LTD vs LLP", "desc": "Implicaciones fiscales de cada estructura, lado a lado. Cuál paga menos, cuál es más simple, cuál te protege." },
+      "jurisdictions": { "title": "Jurisdicciones: Reino Unido vs Irlanda", "desc": "Impuesto de sociedades, impuesto sobre la renta y carga fiscal total comparados. Empieza con Reino Unido + Irlanda." },
+      "practices": { "title": "Prácticas: Sensato vs arriesgado", "desc": "Qué es optimización fiscal legal y qué cruza la línea. Compensaciones honestas." },
+      "salary-vs-dividend": { "title": "Salario vs Dividendo: sacar dinero de una empresa", "desc": "Cómo extraer beneficio eficientemente — la combinación óptima de salario y dividendos." }
+    }
+  },
+  "tools": {
+    "title": "Herramientas",
+    "desc": "Calculadoras instantáneas. Escribe un número, ve el resultado. Sin cuenta, sin recarga de página, sin rastreo. Cada una muestra los cálculos para que los verifiques.",
+    "toolsList": {
+      "vat-calculator": { "title": "Calculadora de VAT", "desc": "Introduce un importe — ve neto, VAT y bruto al instante. Añade o quita VAT al 20%." },
+      "take-home-calculator": { "title": "Calculadora de salario neto", "desc": "Introduce tu salario — ve la renta neta con desglose completo: impuesto sobre la renta, NI, neto." },
+      "dividend-calculator": { "title": "Calculadora de dividendos", "desc": "Introduce el beneficio de la empresa — ve impuesto de sociedades, impuesto de dividendos y lo que llevas a casa." }
+    }
+  },
+  "calc": {
+    "amount": "Importe (£)",
+    "vatRate": "Tipo de VAT",
+    "addVat": "Añadir VAT",
+    "removeVat": "Quitar VAT",
+    "standardRate": "20% — Tipo estándar",
+    "reducedRate": "5% — Tipo reducido",
+    "zeroRate": "0% — Tipo cero",
+    "netAmount": "Importe neto",
+    "grossAmount": "Importe bruto",
+    "addingVat": "Añadiendo VAT:",
+    "removingVat": "Quitando VAT:",
+    "annualGrossSalary": "Salario bruto anual (£)",
+    "grossSalary": "Salario bruto",
+    "personalAllowance": "Asignación personal",
+    "incomeTax": "Impuesto sobre la renta",
+    "nationalInsurance": "Seguro Nacional",
+    "takeHomePay": "Salario neto",
+    "howCalculated": "Cómo se calcula (2024/25):",
+    "companyProfit": "Beneficio de la empresa antes del salario (£)",
+    "directorSalary": "Salario del director (£/año)",
+    "taxableProfit": "Beneficio imponible",
+    "corporationTax": "Impuesto de sociedades",
+    "dividendReceived": "Dividendo recibido",
+    "dividendTax": "Impuesto de dividendos",
+    "totalTakeHome": "Total neto",
+    "basicRate": "Tipo básico",
+    "higherRate": "Tipo superior",
+    "additionalRate": "Tipo adicional",
+    "allTools": "← Todas las herramientas",
+    "allGuides": "← Todas las guías",
+    "allComparisons": "← Todas las comparaciones",
+    "vatCalculatorDesc": "Introduce un importe — ve neto, VAT y bruto al instante.",
+    "takeHomeDesc": "Introduce tu salario bruto anual — ve impuesto sobre la renta, NI y neto.",
+    "dividendDesc": "Introduce el beneficio de la empresa — ve impuesto de sociedades, impuesto de dividendos y neto."
+  },
+  "roles": {
+    "whatMatters": "Esto es lo que te importa",
+    "keyPoints": "Puntos clave en palabras simples",
+    "relatedGuides": "Guías relacionadas",
+    "yearlyChecklist": "Lo que necesitas hacer este año",
+    "backToLearn": "← Todas las guías"
+  },
+  "footer": {
+    "text": "TaxSorted — gratis, abierto, honesto. Hecho con amor, no con extracción."
+  }
+}

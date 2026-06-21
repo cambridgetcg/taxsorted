@@ -1,0 +1,151 @@
+{
+  "nav": {
+    "learn": "Apprendre",
+    "transparency": "Transparence",
+    "compare": "Comparer",
+    "tools": "Outils",
+    "tagline": "Les impôts, en mots simples."
+  },
+  "home": {
+    "heroTitle": "Les impôts, en mots simples.",
+    "heroDesc": "Guides fiscaux britanniques gratuits, ouverts et honnêtes. Comprenez ce que vous payez, pourquoi vous le payez et où ça va. Sans compte, sans paywall, sans jargon.",
+    "languageSelector": "Choisissez votre langue",
+    "whoAreYou": "Qui êtes-vous ?",
+    "whoAreYouDesc": "Choisissez votre situation — nous vous montrerons ce qui compte pour vous.",
+    "roleEmployees": "Salarié",
+    "roleEmployeesDesc": "PAYE, impôt sur le revenu, NI, retraites professionnelles",
+    "roleSoleTraders": "Travailleur indépendant",
+    "roleSoleTradersDesc": "Auto-déclaration, NI, seuil de TVA, dépenses",
+    "roleDirectors": "Directeur d'entreprise",
+    "roleDirectorsDesc": "Salaire vs dividende, impôt sur les sociétés, CT600",
+    "roleLandlords": "Propriétaire",
+    "roleLandlordsDesc": "Impôt sur les revenus locatifs, dépenses déductibles, plus-value immobilière",
+    "roleInvestors": "Investisseur",
+    "roleInvestorsDesc": "Plus-value, ISA, impôt sur les dividendes, BEDR",
+    "roleCharities": "Organisme caritatif",
+    "roleCharitiesDesc": "Gift Aid, exonérations de TVA, allègements fiscaux",
+    "roleExpats": "Expatrié",
+    "roleExpatsDesc": "Résidence, double imposition, revenus étrangers",
+    "roleStudents": "Étudiant",
+    "roleStudentsDesc": "Impôt sur les prêts étudiants, travail à temps partiel, bourses",
+    "rolePensioners": "Retraité",
+    "rolePensionersDesc": "Impôt sur les retraites, abattements, rachat",
+    "cardLearn": "Apprendre",
+    "cardLearnDesc": "TVA, impôt sur le revenu, impôt sur les sociétés, PAYE, plus-value — expliqués simplement.",
+    "cardLearnArrow": "Lire les guides →",
+    "cardTransparency": "Transparence",
+    "cardTransparencyDesc": "Voyez où va chaque £1 de vos impôts. NHS, éducation, défense, bien-être.",
+    "cardTransparencyArrow": "Voir la répartition →",
+    "cardCompare": "Comparer",
+    "cardCompareDesc": "Indépendant vs LTD, salaire vs dividende, Royaume-Uni vs Irlande, prudent vs risqué.",
+    "cardCompareArrow": "Comparer côte à côte →",
+    "cardTools": "Outils",
+    "cardToolsDesc": "Calculatrices de TVA, salaire net et dividendes. Tapez et voyez.",
+    "cardToolsArrow": "Utiliser les calculatrices →"
+  },
+  "learn": {
+    "title": "Apprendre",
+    "desc": "Guides fiscaux britanniques en mots simples. Chacun vous dit ce que ça signifie, ce que vous devez faire, ce que vous pouvez ignorer et comment optimiser. Gratuit, ouvert, sans compte. Si vous n'utilisez TaxSorted que pour comprendre vos impôts, c'est une réussite.",
+    "guides": {
+      "vat": { "tag": "Impôt indirect", "title": "TVA — Taxe sur la valeur ajoutée", "desc": "Ce que c'est, quand s'enregistrer, comment déclarer et ce que vous pouvez récupérer." },
+      "income-tax": { "tag": "Impôt direct", "title": "Impôt sur le revenu", "desc": "Tranches, abattements, comment fonctionne PAYE et auto-déclaration expliquée." },
+      "corporation-tax": { "tag": "Impôt des sociétés", "title": "Impôt sur les sociétés", "desc": "Taux, abattements, déclaration CT600 et ce que vous pouvez déduire." },
+      "paye-rti": { "tag": "Impôt de l'employeur", "title": "PAYE / RTI", "desc": "Obligations de l'employeur, soumissions FPS/EPS et échéances importantes." },
+      "capital-gains-tax": { "tag": "Impôt sur le capital", "title": "Impôt sur les plus-values", "desc": "Abattements, taux, déclaration et comment réduire ce que vous devez." }
+    },
+    "forRolesTitle": "Guides pour votre situation",
+    "forRolesDesc": "Choisissez votre rôle — voyez ce qui compte pour vous, en mots simples.",
+    "forRoles": {
+      "for-employees": "Pour les salariés",
+      "for-sole-traders": "Pour les indépendants",
+      "for-directors": "Pour les directeurs",
+      "for-landlords": "Pour les propriétaires",
+      "for-investors": "Pour les investisseurs",
+      "for-charities": "Pour les organismes caritatifs",
+      "for-expats": "Pour les expatriés",
+      "for-students": "Pour les étudiants",
+      "for-pensioners": "Pour les retraités"
+    }
+  },
+  "transparency": {
+    "title": "Transparence",
+    "desc": "Où vont vos impôts ? Pour chaque £1 collecté, voici combien va au NHS, à l'éducation, à la défense, au bien-être et à tout le reste. Sources : HM Treasury et OBR — chaque chiffre indique sa source.",
+    "perPoundTitle": "Pour chaque £1 que vous payez en impôts…",
+    "perPoundDesc": "Basé sur les dépenses publiques totales de 2023/24 d'environ 1 220 milliards de £. Arrondi au penny le plus proche.",
+    "breakdownTitle": "Répartition complète (2023/24)",
+    "historyTitle": "Comment la répartition a changé au fil du temps",
+    "historyDesc": "Catégories clés en part des dépenses totales, de 2009/10 à 2023/24. L'histoire : la part du bien-être a légèrement baissé, la santé a augmenté, et « autres » (y compris les intérêts de la dette et l'investissement en capital) a crû.",
+    "plainWordsTitle": "Ce que ça signifie en mots simples",
+    "honestPicture": "Le tableau honnête",
+    "honestPictureDesc": "Pour chaque £1 d'impôt que vous payez, environ 22p va au bien-être et aux retraites, 20p au NHS, 11p à l'éducation, 7p paie les intérêts de la dette publique, 5p à la défense, et les 35p restants couvrent les transports, la police, le soutien aux entreprises, les subventions aux collectivités et l'investissement en infrastructure.",
+    "biggestItems": "Les plus grands postes",
+    "biggestItemsDesc": "Le bien-être (y compris la retraite d'État) et la santé représentent ensemble plus de 40 % de toutes les dépenses. Ce sont aussi les catégories qui croissent le plus vite. La seule retraite d'État — versée à 12 millions de personnes — est le plus grand poste du budget, à environ 125 milliards de £.",
+    "debtInterest": "Intérêts de la dette",
+    "debtInterestDesc": "7p sur chaque £1 va au service de la dette publique — payer des intérêts aux détenteurs d'obligations. C'est de l'argent qui ne construit pas d'écoles, ne répare pas de routes ni ne finance des hôpitaux. C'est le coût des emprunts passés, et il augmente quand les taux d'intérêt montent."
+  },
+  "compare": {
+    "title": "Comparer",
+    "desc": "Scénarios fiscaux côte à côte. Tableaux clairs, mots simples, compromis honnêtes. Comparez les structures d'entreprise, les juridictions, les pratiques et les façons de sortir l'argent d'une société.",
+    "comparisons": {
+      "business-types": { "title": "Types d'entreprise : Indépendant vs Société vs LTD vs LLP", "desc": "Implications fiscales de chaque structure, côte à côte. Lequel paie le moins, lequel est le plus simple, lequel vous protège." },
+      "jurisdictions": { "title": "Juridictions : Royaume-Uni vs Irlande", "desc": "Impôt sur les sociétés, impôt sur le revenu et charge fiscale globale comparés. Commencez par Royaume-Uni + Irlande." },
+      "practices": { "title": "Pratiques : Prudent vs risqué", "desc": "Qu'est-ce qui est une optimisation fiscale légale et ce qui franchit la ligne. Compromis honnêtes." },
+      "salary-vs-dividend": { "title": "Salaire vs Dividende : sortir l'argent d'une société", "desc": "Comment extraire le bénéfice efficacement — le mélange optimal de salaire et de dividendes." }
+    }
+  },
+  "tools": {
+    "title": "Outils",
+    "desc": "Calculatrices instantanées. Tapez un nombre, voyez le résultat. Sans compte, sans rechargement, sans suivi. Chacune montre les calculs pour que vous vérifiiez vous-même.",
+    "toolsList": {
+      "vat-calculator": { "title": "Calculatrice de TVA", "desc": "Entrez un montant — voyez le net, la TVA et le brut instantanément. Ajoutez ou retirez la TVA à 20 %." },
+      "take-home-calculator": { "title": "Calculatrice de salaire net", "desc": "Entrez votre salaire — voyez le revenu net avec détail complet : impôt sur le revenu, NI, net." },
+      "dividend-calculator": { "title": "Calculatrice de dividendes", "desc": "Entrez le bénéfice de la société — voyez l'impôt sur les sociétés, l'impôt sur les dividendes et le net." }
+    }
+  },
+  "calc": {
+    "amount": "Montant (£)",
+    "vatRate": "Taux de TVA",
+    "addVat": "Ajouter la TVA",
+    "removeVat": "Retirer la TVA",
+    "standardRate": "20 % — Taux standard",
+    "reducedRate": "5 % — Taux réduit",
+    "zeroRate": "0 % — Taux zéro",
+    "netAmount": "Montant net",
+    "grossAmount": "Montant brut",
+    "addingVat": "Ajout de la TVA :",
+    "removingVat": "Retrait de la TVA :",
+    "annualGrossSalary": "Salaire brut annuel (£)",
+    "grossSalary": "Salaire brut",
+    "personalAllowance": "Abattement personnel",
+    "incomeTax": "Impôt sur le revenu",
+    "nationalInsurance": "Assurance Nationale",
+    "takeHomePay": "Salaire net",
+    "howCalculated": "Comment c'est calculé (2024/25) :",
+    "companyProfit": "Bénéfice de la société avant salaire (£)",
+    "directorSalary": "Salaire du directeur (£/an)",
+    "taxableProfit": "Bénéfice imposable",
+    "corporationTax": "Impôt sur les sociétés",
+    "dividendReceived": "Dividende reçu",
+    "dividendTax": "Impôt sur les dividendes",
+    "totalTakeHome": "Net total",
+    "basicRate": "Taux de base",
+    "higherRate": "Taux supérieur",
+    "additionalRate": "Taux supplémentaire",
+    "allTools": "← Tous les outils",
+    "allGuides": "← Tous les guides",
+    "allComparisons": "← Toutes les comparaisons",
+    "vatCalculatorDesc": "Entrez un montant — voyez le net, la TVA et le brut instantanément.",
+    "takeHomeDesc": "Entrez votre salaire brut annuel — voyez l'impôt sur le revenu, la NI et le net.",
+    "dividendDesc": "Entrez le bénéfice de la société — voyez l'impôt sur les sociétés, l'impôt sur les dividendes et le net."
+  },
+  "roles": {
+    "whatMatters": "Voici ce qui compte pour vous",
+    "keyPoints": "Points clés en mots simples",
+    "relatedGuides": "Guides connexes",
+    "yearlyChecklist": "Ce que vous devez faire cette année",
+    "backToLearn": "← Tous les guides"
+  },
+  "footer": {
+    "text": "TaxSorted — gratuit, ouvert, honnête. Construit par amour, pas par extraction."
+  }
+}
